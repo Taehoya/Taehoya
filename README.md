@@ -8,7 +8,7 @@
 -  👀 I’m curretly interested in Software Enginner and Human Computer Interaction
 - 🌱 I’m currently learning Vue.js and Swift
 - 💞️ I’m always doing practices and do my best
-- 📫 How to reach me ...
+- 📫 How to reach me <cth6809@gmail.com>
 
 
 ### Homepages
