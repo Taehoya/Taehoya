@@ -1,5 +1,5 @@
-## Taeho Choi @cth6809
-
+## Taeho Choi (개발하는 최태호) 
+<br>
 
 ### Hi, I'm Taeho Choi 👋 <br>
 
