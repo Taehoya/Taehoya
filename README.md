@@ -1,6 +1,8 @@
 ## Taeho Choi (뽀시래기 개발자 최태호) 
+ 
 
-### Hi, I'm Taeho Choi 👋 <br>
+### Hi, I'm Taeho Choi ![IMG_3449 1](https://user-images.githubusercontent.com/48103834/122159026-3c953f00-ce33-11eb-9f90-a4d987665670.png) 
+<br>
 
 -  👋 I'm a Computer Science Student at University of Manitoba
 -  👋 I'm a Junior co-op Application Developer at Pollard Banknote
