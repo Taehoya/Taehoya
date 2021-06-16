@@ -1,5 +1,4 @@
 ## Taeho Choi (뽀시래기 개발자 최태호) 
-<br>
 
 ### Hi, I'm Taeho Choi 👋 <br>
 
