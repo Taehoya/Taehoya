@@ -14,6 +14,6 @@
 ### Homepages
 
 - [Today I learned (Dev Note)](https://cth6809.devdojo.com)
-- Online Portfolio will be updated soon
+- [Online Portfolio](https://taehoya.github.io/index.html)
 - Resume will be updated soon
 
