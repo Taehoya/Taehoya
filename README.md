@@ -1,4 +1,4 @@
-## Taeho Choi (뽀시래기 개발자 최태호) 
+## Taeho Choi (최태호) 
  
 
 ###  ![IMG_3449 1](https://user-images.githubusercontent.com/48103834/122159026-3c953f00-ce33-11eb-9f90-a4d987665670.png) Hi, I'm Taeho Choi
