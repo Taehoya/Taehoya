@@ -3,17 +3,15 @@
 
 ###  ![IMG_3449 1](https://user-images.githubusercontent.com/48103834/122159026-3c953f00-ce33-11eb-9f90-a4d987665670.png) Hi, I'm Taeho Choi
 
--  👋 I'm a Computer Science Student at University of Manitoba
--  👋 I'm a Software Developer Data Services (Backend) at Priceline
--  👀 I’m currently interested in Software Enginner and Human Computer Interaction
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m always doing practices and do my best
-- 📫 How to reach me <cth6809@gmail.com>
+-  🎓 I'm a Computer Science Honors (Co-op) Student at University of Manitoba
+-  👋 I'm a **Software Developer Co-op at Priceline** (Data Service Team). Previously at Pollard Banknote Limited.
+-  👀 I’m currently interested in full-stack web development and Human Computer Interaction
 
 
-### Homepages
+## Homepages
 
-- [Today I learned (Dev Note)](https://github.com/Taehoya/TIL)
-- [Online Portfolio](https://taehoya.github.io/index.html)
-- Resume will be updated soon
+[![github stats](https://github-readme-stats.vercel.app/api?username=Taehoya&count_private=true&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/Taehoya)
+<br>
 
+[![images](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Taehoya/)
+[![images](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cth6809@gmail.com)
